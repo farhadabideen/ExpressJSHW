@@ -1,0 +1,3 @@
+a. Make a POST API with URL Query ,Body & Header Properties.
+b. Make a file upload API support PNG,JPG file only
+c. Make a file Download API, that can download file from application directory
